@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Landing Page | SmartWatch</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css"
+    />
+  </head>
+  <body>
+    <section id="home" class="header">
+      <nav>
+        <!-- <a href="index.html"><img src="img/logo1.png" alt="logo" /></a> -->
+        <a href="index.html"><h3>TechWorld</h3></a>
+        <div class="nav-link" id="navLinks">
+          <i class="fa fa-times" onclick="hideMenu()"></i>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+          </ul>
+        </div>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+      </nav>
+      <div class="textBox">
+        <h1>
+          The Perfect Moment Between <br />
+          Past and Future
+        </h1>
+        <p>
+          Discover the perfect blend of style and functionality with our
+          cutting-edge smartwatches. <br />
+          Stay connected, track your fitness, and access important notifications
+          with ease. <br />
+          Embrace the future of wearable technology and elevate your lifestyle
+          today
+        </p>
+        <a href="" class="heroBtn">Know More </a>
+      </div>
+    </section>
+
+    <!------------ About --------->
+
+    <section id="about" class="about">
+      <h1>Our Best Collection for You</h1>
+      <p>
+        Discover unmatched style and innovation with our curated collection of
+        cutting-edge smartwatches. Elevate your wristwear game today!
+      </p>
+      <div class="row">
+        <div class="about-col">
+          <h3>Unparalleled Connectivity</h3>
+          <p>
+            Stay effortlessly connected no matter where life takes you. Our
+            smartwatches allow you to receive notifications, calls, and messages
+            right on your wrist, so you're never out of touch. With seamless
+            Bluetooth integration, you can sync your watch with your smartphone
+            to access your favorite apps, music, and more, all with a simple
+            flick of your wrist
+          </p>
+        </div>
+        <div class="about-col">
+          <h3>Fitness and Wellness Companion</h3>
+          <p>
+            Elevate your health and well-being with the built-in fitness and
+            wellness features of our smartwatches. Track your steps, monitor
+            your heart rate, and measure your workouts with precision. Whether
+            you're an avid athlete or simply looking to lead a healthier
+            lifestyle, our smartwatches provide the insights you need to achieve
+            your goals.
+          </p>
+        </div>
+        <div class="about-col">
+          <h3>Customizable Style</h3>
+          <p>
+            Express yourself through your timepiece. Our smartwatches offer a
+            range of customizable watch faces and bands, allowing you to tailor
+            your device to match your personal style. From classic to modern,
+            vibrant to understated, our collection ensures that your smartwatch
+            complements your fashion sense.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!---------- Features -------->
+    <section id="features" class="features">
+      <h1>Features</h1>
+      <p>
+        Explore advanced features: stunning display, health tracking, seamless
+        <br />
+        connectivity, fitness monitoring, ECG, voice control, long battery life,
+        and more. Elevate your wrist experience.`
+      </p>
+      <div class="row">
+        <div class="feature-col">
+          <img src="img/watch1.webp" />
+          <div class="layer">
+            <h3>Stunning Design and Display</h3>
+            <!-- <p>
+              Elevate your style with a sleek, premium design and a vibrant
+              AMOLED display that brings your watch face to life with stunning
+              clarity and vivid colors.
+            </p> -->
+          </div>
+        </div>
+        <div class="feature-col">
+          <img src="img/watchBack.webp" />
+          <div class="layer">
+            <h3>Seamless Connectivity</h3>
+            <!-- <p>
+              Elevate your style with a sleek, premium design and a vibrant
+              AMOLED display that brings your watch face to life with stunning
+              clarity and vivid colors.
+            </p> -->
+          </div>
+        </div>
+        <div class="feature-col">
+          <img src="img/health.jpg" />
+          <div class="layer">
+            <h3>Health and Wellness Tracking</h3>
+            <!-- <p>
+              Elevate your style with a sleek, premium design and a vibrant
+              AMOLED display that brings your watch face to life with stunning
+              clarity and vivid colors.
+            </p> -->
+          </div>
+        </div>
+        <div class="feature-col">
+          <img src="img/tracking.jpg" />
+          <div class="layer">
+            <h3>Advanced Fitness Tracking</h3>
+            <!-- <p>
+              Elevate your style with a sleek, premium design and a vibrant
+              AMOLED display that brings your watch face to life with stunning
+              clarity and vivid colors. -->
+            <!-- </p> -->
+          </div>
+        </div>
+        <div class="feature-col">
+          <img src="img/faces.png" />
+          <div class="layer">
+            <h3>Personalized Watch Faces and Bands</h3>
+            <!-- <p>
+              Elevate your style with a sleek, premium design and a vibrant
+              AMOLED display that brings your watch face to life with stunning
+              clarity and vivid colors.
+            </p> -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-------- Contact Us ------>
+    <section id="contact" class="contact">
+      <h1>Get in Touch</h1>
+      <form action="" method="">
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Name"
+          required
+        /><br /><br />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="Email"
+          required
+        /><br />
+
+        <a href="" class="heroBtn">Subscribe</a>
+      </form>
+    </section>
+    <script>
+      var navLinks = document.getElementById("navLinks");
+      function showMenu() {
+        navLinks.style.right = "0";
+      }
+      function hideMenu() {
+        navLinks.style.right = "-250px";
+      }
+    </script>
+  </body>
+</html>
