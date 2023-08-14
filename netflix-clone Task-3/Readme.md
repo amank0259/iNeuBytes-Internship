@@ -1,41 +1,31 @@
 
 
-# task-1 Product landing page with newsletter signup. <br>
+# task-1 Netflix Clone. <br>
 
-# Product Landing Page
+# Netflix Clone
 
-<img src="https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/76a76b90-d5c9-4017-bc33-c40a2eeb4dc8" width="440" height="740"/>
-
-## Live Preview
-![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/5a668be1-e314-4453-bc1a-79f237338f8f)
+![Netflix](https://github.com/amank0259/iNeuBytes-Internship1/assets/94205023/351eccef-0678-4695-b25b-e1b646049877)
 
 
 ## Description
 
-Welcome to the Product Landing Page project! This project is a part of my iNeuBytes Internship Task 1. The goal of this project is to create a responsive and visually appealing landing page for showcasing a product including product details ans Newsletter-SignUp.
-
+Welcome to the Netflix Replica project! This project is a part of my iNeuBytes Internship Task 3. The goal of this project is to create a responsive and visually appealing Clone Website.
 
 ## Features
 
 - Responsive design for various screen sizes.
-- Clear and engaging product presentation.
-- Interactive elements for user engagement.
-- Product details(about,features).
-- Newsletter-SignUp.
+- It is a Clone
+- Movie Catagories
+- Responsive Carousel
 
 ## Technologies Used
 
 - HTML
 - CSS3
 - JavaScript
+- Web API
 
-
-## Usage
-
-1. Open the landing page in your browser.
-2. Explore the product details and features.
-3. Click on interactive elements to experience the page's interactivity.
-4. This is a part of Internship task so this is only for educational purpose.
+Note:- I Understand that the clone-based project created by me is intended solely for education purpose.
 
 
 
