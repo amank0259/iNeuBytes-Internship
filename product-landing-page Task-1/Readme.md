@@ -4,7 +4,7 @@
 
 # Product Landing Page
 
-<img src="https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/76a76b90-d5c9-4017-bc33-c40a2eeb4dc8" width="440" height="740"/>
+<img src="https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/2cd438df-c968-47ed-9bc2-34a285a86d6b" width="440" height="740"/>
 
 ## Live Preview
 ![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/5a668be1-e314-4453-bc1a-79f237338f8f)
