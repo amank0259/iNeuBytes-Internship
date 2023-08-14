@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # iNeuBytes-Internship1
 All three tasks.   task-1 Product landing page with newsletter signup. task-2 Random joke generator. task-3 Netflix clone.
 =======
