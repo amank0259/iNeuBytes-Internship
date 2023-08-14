@@ -7,7 +7,7 @@
 <img src="https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/2cd438df-c968-47ed-9bc2-34a285a86d6b" width="440" height="740"/>
 
 ## Live Preview
-![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/5a668be1-e314-4453-bc1a-79f237338f8f)
+![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/6fb3a8ce-8ee7-4a4f-b66f-7c8fa184857f)
 
 
 ## Description
