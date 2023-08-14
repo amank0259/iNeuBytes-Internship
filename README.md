@@ -5,10 +5,12 @@ All three tasks.   task-1 Product landing page with newsletter signup. task-2 Ra
 # All three tasks. <br>
 
 # task-1 Product landing page with newsletter signup. <br>
-![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/5a668be1-e314-4453-bc1a-79f237338f8f)
+![ezgif com-video-to-gif](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/6fb3a8ce-8ee7-4a4f-b66f-7c8fa184857f)
+
 
 # task-2 Random joke generator. <br>
-![VN20230810_172934](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/d3fe82a1-b284-4d49-910c-29cf5541cf66)
+![VN20230810_172934](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/9af7d3ed-a9c3-49e6-9136-15ab07604a37)
+
 
 # task-3 Netflix clone. <nr>
 
