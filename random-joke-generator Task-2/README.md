@@ -1,7 +1,7 @@
 
 ## task-2 Random joke generator. <br>
 
-![Netflix](https://github.com/amank0259/iNeuBytes-Internship1/assets/94205023/351eccef-0678-4695-b25b-e1b646049877)
+![VN20230810_172934](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/9af7d3ed-a9c3-49e6-9136-15ab07604a37)
 
 ## Description
 
