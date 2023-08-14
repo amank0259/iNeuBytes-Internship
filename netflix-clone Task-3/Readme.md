@@ -23,7 +23,7 @@ Welcome to the Netflix Replica project! This project is a part of my iNeuBytes I
 - HTML
 - CSS3
 - JavaScript
-- Web API
+- Web API (themoviedb.org)
 
 Note:- I Understand that the clone-based project created by me is intended solely for education purpose.
 
